@@ -1,4 +1,4 @@
-package JavaJenkinsTest;
+package Basic;
 
 public class JavaJenkinsTest {
 public static void main(String[] args) {
